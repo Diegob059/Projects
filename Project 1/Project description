@@ -1,8 +1,0 @@
-Project 1: Sales and products overview report.
-This project was done using Microsoft's AdventureWorks database, along with an additional budget file. The project consists on using SQL Server to perform 
-simple data treatments to prepare the data for the report dashboard. The dashboard was developed using Power BI using the transformed data from SQL Server.
-
-The dashboard provides insights into critical sales metrics such as sales vs budget, sales by product category, among others, as well as a product report, 
-where relevant information such as top selling products and the sales information for each product by category.
-
-The files contain the SQL queries, the cvs files of the dimension and facts tables, and the Power BI dashboard.
