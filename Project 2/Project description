@@ -1,7 +1,0 @@
-Project 2: Superstore sales
-This project was created using the Superstore database from Kaggle.
-The project consists of cleaning the data of the original database by removing cernatin duplicates, eliminating blanks spaces and rows, and correcting data types.
-The data was then filtered using SQL Server, and as the  original database lacked product ID numbers, a sequence was used to create individual product IDs.
-Also, new columns containing the year, month and day of the transactions were added to be used in the development of the report.
-The report was done using Power BI, where a dashboard with three pages was developed: sales analysis, customer analysis, and product analysis. Each page has key
-metrics and KPIs relevant to the information being analyzed. 
