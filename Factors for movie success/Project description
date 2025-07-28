@@ -1,0 +1,3 @@
+This project is based on the movies dataset from the IBDM website. The project consist on finding which variables or factor are correlated with a movie's success.
+This was done in Python by first treating the data and correcting data types, followed by a correlation analysis using correlation matrixes ans scatter plots
+to identify the factors that correlate with the movie's success. Also, non numerical columns were transformed to a category data type to be included in the analysis.
