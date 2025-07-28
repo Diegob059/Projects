@@ -1,0 +1,7 @@
+This project consists of the creation of a dashboard with key metrics and KPIs on sales, customers, and products. The dataset used is the superstore dataset available in Kaggle.
+The project consists of the following steps:
+1) Data cleaning in Excel by removing blank spaces and correcting data types.
+2) Data manipulation in SQL Server by further filtering data and creating a unique product ID for each product, as well as several analysis such as segment avg, top selling products,
+and manufactories with the best selling products.
+
+The files included in this folder are the cleaned dataset (superstore_dataset), the SQL script (superstore_data_extraction), and the Power BI file with the reports (Superstore-sales_report)
