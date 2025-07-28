@@ -1,0 +1,13 @@
+This project consists on the creation of a customer finantial information analysis dashboard and a banking information dashboard. 
+The first dashboard simulates the user interface of a banking app, and the second dashboard contains relevant information, metrics and KPIs for the bank. This project uses the
+Bank Marketing dataset from the UCI machine learning repository.
+This project consists of the following parts:
+
+1) A treatment of the data and the creation of synthetic data (customer ID, transaction ID, transaction number, transaction value, transaction date, and name columns) using Python
+
+2) Further data treatment and creation of views in SQL Server with segmentations such as customers by age and customers by job, a transaction pattern analysis, and a suspicious activity analysis
+that identifies customers where total withdrawals are greater than 50% of the account balance.
+
+3) Creation of the dashboard and relevant measures for total deposits and withdrawals, a loan eligibility status based on a loan score calulated based on age, job and balance, among others.
+
+This folder contains the original dataset, the Jupyter notebook, the resulting dataset, the SQL script that contains a stored procedure to create the views, and the Power BI file with the dashboards.
