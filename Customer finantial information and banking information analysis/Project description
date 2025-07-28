@@ -10,4 +10,5 @@ that identifies customers where total withdrawals are greater than 50% of the ac
 
 3) Creation of the dashboard and relevant measures for total deposits and withdrawals, a loan eligibility status based on a loan score calulated based on age, job and balance, among others.
 
-This folder contains the original dataset, the Jupyter notebook, the resulting dataset, the SQL script that contains a stored procedure to create the views, and the Power BI file with the dashboards.
+This folder contains the original dataset (Customer_bank_info), the Jupyter notebook (Project_5.ipynb), the resulting dataset (customer_bank_info_final)
+, the SQL script that contains a stored procedure to create the views (Bank_info_analysis_views), and the Power BI file with the dashboards (Customer finantial status and banking information report).
