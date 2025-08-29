@@ -1,0 +1,8 @@
+The dataset for this project is the  Online Retail II dataset from UC Irvine ML repository, found here: https://archive.ics.uci.edu/dataset/502/online+retail+ii
+
+This project consists of a customer segmentation based on RFM (recency, frequency and monetary value) analysis using machine learning in Python. 
+The model used is Kmeans clustering to cluster customers, and then posterior analysis is done to find the characteristics of each customer cluster, and based on the findings,
+suggest actions or strategies to retain the customers and increase bussiness revenue. The data is cleaned and pre-processed as the dataset contains various invalid records and
+qualities that are not specified in the website of origin.
+
+This project is useful and impactful as this type of models can be used to make data driven decisions and find insights and value in data.
